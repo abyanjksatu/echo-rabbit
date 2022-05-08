@@ -1,1 +1,1 @@
-# echo-rabbit
+# go-echo-rabbit
